@@ -1,0 +1,28 @@
+.medias{
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+    
+    width: 300px;
+    padding: 0 20px;
+    clip-path: polygon(0% 0%, 100% 0%, 95% 100%, 5% 100%);
+}
+.medias .medias-icon{
+    display: flex;
+    margin: 3px 3px;
+}
+.medias .medias-icon img{
+    height: 42px;
+}
+.medias .medias-text {
+    flex-grow: 1;
+}
+.medias .medias-text span{
+    font-size: 12px;
+}
+.medias .medias-text .social-desc {
+    font-size: 12px;
+    padding-left: 4px;
+}

@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Jolly+Lodger&display=swap');
+.timezone{
+    text-transform: uppercase;
+    font-size: 25px;
+    font-family: 'Jolly Lodger',
+    cursive;
+}
